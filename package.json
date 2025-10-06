@@ -1,0 +1,20 @@
+{
+  "name": "playwrightissue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:edge": "playwright test --project=\"Microsoft Edge\"",
+    "test:edge:headed": "playwright test --project=\"Microsoft Edge\" --headed",
+    "show-report": "playwright show-report",
+    "ui": "playwright test --ui"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.56.0"
+  }
+}

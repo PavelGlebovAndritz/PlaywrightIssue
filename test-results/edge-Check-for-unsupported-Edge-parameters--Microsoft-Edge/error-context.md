@@ -1,0 +1,192 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - img "Edge-Logo" [ref=e5]
+      - generic [ref=e6]: Microsoft Corporation
+      - generic [ref=e7]: © 2025 Microsoft Corporation. Alle Rechte vorbehalten.
+    - table [ref=e8]:
+      - rowgroup [ref=e9]:
+        - 'row "Microsoft Edge: 141.0.3537.57 (Offizielles Build) (64-Bit) Versionszeichenfolge kopieren" [ref=e10]':
+          - cell "Microsoft Edge:" [ref=e11]
+          - cell "141.0.3537.57 (Offizielles Build) (64-Bit) Versionszeichenfolge kopieren" [ref=e12]:
+            - generic [ref=e13]:
+              - text: 141.0.3537.57 (Offizielles Build)
+              - text: (64-Bit)
+            - button "Versionszeichenfolge kopieren" [ref=e14] [cursor=pointer]
+        - 'row "Revision: edf1b001e567fc13d8691f3830d07c502910378d" [ref=e16]':
+          - cell "Revision:" [ref=e17]
+          - cell "edf1b001e567fc13d8691f3830d07c502910378d" [ref=e18]
+        - 'row "Chromium-Version: 141.0.7390.55" [ref=e19]':
+          - cell "Chromium-Version:" [ref=e20]
+          - cell "141.0.7390.55" [ref=e21]
+        - 'row "Betriebssystem: Windows 11 Version 23H2 (Build 22631.5909)" [ref=e22]':
+          - cell "Betriebssystem:" [ref=e23]
+          - cell "Windows 11 Version 23H2 (Build 22631.5909)" [ref=e24]:
+            - generic [ref=e25]: Windows 11 Version 23H2 (Build 22631.5909)
+        - 'row "JavaScript: V8 14.1.19.6" [ref=e26]':
+          - cell "JavaScript:" [ref=e27]
+          - cell "V8 14.1.19.6" [ref=e28]
+        - 'row "Benutzer-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" [ref=e29]':
+          - cell "Benutzer-Agent:" [ref=e30]
+          - cell "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" [ref=e31]
+        - row [ref=e32]:
+          - cell "Befehlszeile:" [ref=e33]
+          - cell [ref=e34]
+        - 'row "Pfad zu ausführbarer Datei: C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe" [ref=e35]':
+          - cell "Pfad zu ausführbarer Datei:" [ref=e36]
+          - cell "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe" [ref=e37]
+        - 'row "Profilpfad: C:\\Users\\grzpav04\\AppData\\Local\\Temp\\playwright_chromiumdev_profile-arq02S\\Default" [ref=e38]':
+          - cell "Profilpfad:" [ref=e39]
+          - cell "C:\\Users\\grzpav04\\AppData\\Local\\Temp\\playwright_chromiumdev_profile-arq02S\\Default" [ref=e40]
+        - text: ":"
+        - 'row "Befehlszeilenvariationen: eyJkaXNhYmxlLWZlYXR1cmVzIjoiQWNjZXB0Q0hGcmFtZSxBdXRvRGVFbGV2... Variationszeichenfolge kopieren" [ref=e41]':
+          - cell "Befehlszeilenvariationen:" [ref=e42]
+          - cell "eyJkaXNhYmxlLWZlYXR1cmVzIjoiQWNjZXB0Q0hGcmFtZSxBdXRvRGVFbGV2..." [ref=e43]
+          - cell "Variationszeichenfolge kopieren" [ref=e44]:
+            - button "Variationszeichenfolge kopieren" [ref=e45] [cursor=pointer]
+        - row [ref=e47]:
+          - cell "Aktive Variationen:" [ref=e48]
+          - cell [ref=e49]:
+            - text: b69ef12a-d8d26f5e
+            - text: b814afa7-d8d26f5e
+            - text: b6f29041-ca7d8d80
+            - text: 31e6ccb1-d8d26f5e
+            - text: 2bb9db2e-d8d26f5e
+            - text: 1655361a-d8d26f5e
+            - text: 984bb401-d8d26f5e
+            - text: fdf18b1d-d8d26f5e
+            - text: 87e45d39-d8d26f5e
+            - text: c2c84668-d8d26f5e
+            - text: 15b917a6-d8d26f5e
+            - text: e1b6477f-d8d26f5e
+            - text: 1b79b376-d8d26f5e
+            - text: 7d3babf7-d8d26f5e
+            - text: 7eced548-d8d26f5e
+            - text: d7ea7a4f-d8d26f5e
+            - text: b00381b9-d8d26f5e
+            - text: cdd9e6c3-d8d26f5e
+            - text: c3ba599a-d8d26f5e
+            - text: bfaa011e-d8d26f5e
+            - text: 7229cf07-d8d26f5e
+            - text: aaad07de-d8d26f5e
+            - text: cdf29b77-d8d26f5e
+            - text: 50dccc31-d8d26f5e
+            - text: 336bf3b9-d8d26f5e
+            - text: 360bb61-d8d26f5e
+            - text: ea79e1e2-d8d26f5e
+            - text: 7971e8b2-d8d26f5e
+            - text: c337fb19-d8d26f5e
+            - text: f174dd26-d8d26f5e
+            - text: e53d63d0-d8d26f5e
+            - text: 63a1a746-d8d26f5e
+            - text: 9c52e6d3-d8d26f5e
+            - text: c034b698-d8d26f5e
+            - text: d2280f33-d8d26f5e
+            - text: ab93f638-d8d26f5e
+            - text: 3100e413-d8d26f5e
+            - text: 2dab07dc-d8d26f5e
+            - text: 1566da5f-d8d26f5e
+            - text: 241aa03f-d8d26f5e
+            - text: ae3d2259-d8d26f5e
+            - text: a4ad23c5-d8d26f5e
+            - text: 7894d47e-d8d26f5e
+            - text: 598ab35b-d8d26f5e
+            - text: 7e3f43-d8d26f5e
+            - text: 82e97f97-d8d26f5e
+            - text: 1a1885f2-d8d26f5e
+            - text: 4f10b653-d8d26f5e
+            - text: a9140717-d8d26f5e
+            - text: 8682395-d8d26f5e
+            - text: a0a2e01e-d8d26f5e
+            - text: 83aa2544-d8d26f5e
+            - text: 4501dcce-d8d26f5e
+            - text: 61e47812-d8d26f5e
+            - text: c6fdbeb2-d8d26f5e
+            - text: 838db6de-d8d26f5e
+            - text: bb11aa4f-d8d26f5e
+            - text: 4dfbdb7a-d8d26f5e
+            - text: 72b9708a-d8d26f5e
+            - text: eaab553f-d8d26f5e
+            - text: cc4725b-d8d26f5e
+            - text: ec2cd375-d8d26f5e
+            - text: 46475fb6-d8d26f5e
+            - text: ed7b7a-d8d26f5e
+            - text: 1fc6c46e-d8d26f5e
+            - text: a180777a-d8d26f5e
+            - text: 33340c1-d8d26f5e
+            - text: 6c0dbab5-d8d26f5e
+            - text: 4d4c330-d8d26f5e
+            - text: c127615-d8d26f5e
+            - text: 2fbe7d9e-d8d26f5e
+            - text: f6a73e58-d8d26f5e
+            - text: 876a9b71-d8d26f5e
+            - text: a9ca1042-d8d26f5e
+            - text: 4805b918-d8d26f5e
+            - text: b952aee9-d8d26f5e
+            - text: 49439df5-d8d26f5e
+            - text: c66670da-d8d26f5e
+            - text: aafeeac3-d8d26f5e
+            - text: 87749173-d8d26f5e
+            - text: 137c4550-d8d26f5e
+            - text: 42b78576-d8d26f5e
+            - text: 3872ce31-d8d26f5e
+            - text: d8f269c8-d8d26f5e
+            - text: d4826933-d8d26f5e
+            - text: 6df54140-d8d26f5e
+            - text: 494bcaf1-d8d26f5e
+            - text: 8c89b9a0-d8d26f5e
+            - text: d7607b3e-d8d26f5e
+            - text: 1b0ab354-d8d26f5e
+            - text: 3abcc7ba-d8d26f5e
+            - text: 62bed39b-d8d26f5e
+            - text: 36839d81-d8d26f5e
+            - text: 29d5f007-d8d26f5e
+            - text: 90c200db-d8d26f5e
+            - text: 5c9bda13-d8d26f5e
+            - text: 4b5f3e1c-d8d26f5e
+            - text: ff32e648-d8d26f5e
+            - text: a5a2b2fb-d8d26f5e
+            - text: b5b3a374-d8d26f5e
+            - text: b154bedc-d8d26f5e
+            - text: a7431b33-d8d26f5e
+            - text: a43c18f9-d8d26f5e
+            - text: 50e61216-d8d26f5e
+            - text: 73d89fe8-d8d26f5e
+            - text: d159db07-d8d26f5e
+            - text: c222db84-d8d26f5e
+            - text: 2392500b-d8d26f5e
+            - text: 92c23a13-d8d26f5e
+            - text: 6655ecbe-d8d26f5e
+            - text: 85de54c4-d8d26f5e
+            - text: 1fcb7bba-d8d26f5e
+            - text: 3fabe990-d8d26f5e
+            - text: 56ae8a13-d8d26f5e
+            - text: cddc0518-d8d26f5e
+            - text: 6e613b43-d8d26f5e
+            - text: 30feaaa1-d8d26f5e
+            - text: 1e70429b-d8d26f5e
+            - text: 3d128fd3-d8d26f5e
+            - text: 4fc83ae3-d8d26f5e
+            - text: d789c0f9-d8d26f5e
+            - text: a37d716f-d8d26f5e
+            - text: d0bd283f-d8d26f5e
+            - text: 1ddb97c1-d8d26f5e
+            - text: b357b792-3d47f4f4
+            - text: f4f00e05-ca7d8d80
+            - text: 9481ce98-3d47f4f4
+            - text: 2a426c03-3d47f4f4
+            - text: 4b935545-3d47f4f4
+            - text: 9a38bae3-3d47f4f4
+            - text: 41ad04e1-e4065f40
+            - text: 2d1e43a3-3d47f4f4
+            - text: 386dc267-3d47f4f4
+            - text: a4406b35-1657e2d6
+            - text: 408da146-1657e2d6
+            - text: d69d967d-3695c92e
+            - text: 3c8f75a1-a6f840a5
+        - text: ":"
+  - alert [ref=e50]
+```
