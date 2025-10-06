@@ -29,7 +29,13 @@ module.exports = defineConfig({
   projects: [
     {
       name: 'Microsoft Edge',
-      use: { ...devices['Desktop Edge'], channel: 'msedge' },
+      use: { 
+        ...devices['Desktop Edge'], 
+        channel: 'msedge',
+        launchOptions: {
+          args: ['--inprivate']
+        }
+      },
     },
   ],
 });
